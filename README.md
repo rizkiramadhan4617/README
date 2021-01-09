@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/rizkiramadhan4617/RR018-BOT/main/rizkiramadhan4617/RR018-BOT.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/rizkiramadhan4617/RR018-BOT/main/RR_018/20201101_193857.png" width="230" height="230"/>
 </p>
 <br>
 
