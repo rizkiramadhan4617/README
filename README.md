@@ -78,11 +78,8 @@ Ket: Aktiv 24 jam
 
 
 
-## SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## JOIN THE GROUP <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram`](https://instagram.com/s4mpah.story)
-* [`WhatsApp`](https://wa.me/+6285788555068)
 * [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
