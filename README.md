@@ -93,4 +93,4 @@ Ket: Aktiv 24 jam
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Matio.gif"witdh="600" />
