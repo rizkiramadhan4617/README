@@ -14,7 +14,7 @@
 <a href="https://www.codefactor.io/repository/github/rizkiramadhan4617/RR018-BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/rizkiramadhan4617/RR018-BOT/badge/main"></A>
 </p>
 <p align="center">
-<a href="https://github.com/rizkiramadhan4617/RR018-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/RR018-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/rizkiramadhan4617/RR018-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/rizkiramadhan4617?color=blue&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
