@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIZKI R ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rizkiramadhan4617"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIZKI R ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/rizkiramadhan4617/RR018-BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/rizkiramadhan4617/RR018-BOT/badge/main"></a>
