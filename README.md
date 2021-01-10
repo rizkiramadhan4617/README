@@ -83,7 +83,7 @@ Ket: Aktiv 24 jam
 * [`Youtube`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram`](https://instagram.com/s4mpah.story)
 * [`WhatsApp`](https://wa.me/+6285788555068)
-" [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
+* [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
@@ -93,3 +93,4 @@ Ket: Aktiv 24 jam
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
+https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif
