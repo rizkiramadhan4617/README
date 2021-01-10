@@ -19,19 +19,11 @@
 <a href="https://github.com/rizkiramadhan4617/RR018-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/rizkiramadhan4617/RR018-BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/rizkiramadhan4617/RR018-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/rizkiramadhan4617/RR018-BOT?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizkiramadhan4617%2FRR018-OT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
-<details>
- 
-</details>
-
-### FITUR SEBAGAIAN AKU HAPUS,ADA YG GA TERIMA MAKASIH
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/rizkiramadhan4617/RR018-BOT
 ```
 
 ## Install the dependencies:
@@ -39,7 +31,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd AR15BOT
+> cd RR018-BOT
 > bash install.sh
 ```
 
@@ -84,15 +76,14 @@ you've just cloned!!
 
 Ket: Aktiv 24 jam
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
+* [`Instagram`](https://instagram.com/s4mpah.story)
+* [`WhatsApp`](https://wa.me/+6285788555068)
+" [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
